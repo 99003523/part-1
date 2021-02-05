@@ -17,7 +17,7 @@ In the mid-2000s many of the modern smart phones were introduced and with them c
 
 
 X axis – Year
-Y axis – Cost( percent)
+Y axis – Cost( percent)nnn
 
 
 
